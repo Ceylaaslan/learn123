@@ -19,7 +19,9 @@
   <hr>
   
   <h3>test styles </h3>
-  <o>In this paragrah I am going to <u>underline this</u>, and then is <strong> very important </strong>, and then this <em>italicised for effects
+  <o>In this paragrah I am going to <u>underline this</u>, and then is <strong> very important </strong>, and then this <em>italicised for effects</em>. For example, <em> Ohno! </em> he cried. </p>
+  
+  <hr>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ceylaaslan/learn123/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
