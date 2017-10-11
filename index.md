@@ -20,14 +20,14 @@
   
   
   <h3>Test styles </h3>
-  <p>In this paragrah I am going to <u>underline this</u>, and then is <strong> very important </strong>, and then this <em>italicised for effects</em>. For example, <em> Ohno! </em> he cried. </p>
+  <p>In this paragrah I am going to <u>underline this</u>, and then is <strong> very important </strong>, and then this <em>italicised for effect</em>. For example, <em> Oh No! </em> he cried. </p>
   
   <hr>
 
 <h3>Links and Images </h3>
-<p> First I am going to link to <a href="http://www.qmul.ac.uk/>" my website </a></p>
+<p> First I am going to link to <a href="https://qmplus.qmul.ac.uk/course/view.php?id=741"> my website </a></p>
   
-<img src=" https://www.what-dog.net/Images/faces2/scroll0015.jpg" />
+<img src="https://www.what-dog.net/Images/faces2/scroll0015.jpg" />
   
 ### Jekyll Themes
 
