@@ -2,10 +2,24 @@
 <h2> Section One: What you can learn here. </h2>
 <p> This is the first paragraph. It isn't very interesting. </h2>
 
+<hr>
+<h2>Some HTML Formatting stuff </h2>
+<h3> Lists  </h3>
+<ol>
+  <li>Item 1<li>
+ <li>Item 2<li>   
+    </ol>
 
-
-
-
+<h4>UnOrdered lists hve bullets<h4>
+<ul>
+  <li>Item 1<li>
+  <li>Item 2</li>
+  </ul>
+  
+  <hr>
+  
+  <h3>test styles </h3>
+  <o>In this paragrah I am going to <u>underline this</u>, and then is <strong> very important </strong>, and then this <em>italicised for effects
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ceylaaslan/learn123/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
