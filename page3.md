@@ -6,5 +6,5 @@
 <h1>page3 </h1>
  
 <p>
-  <img src="img/cat.jpg" style="width:50%;" />
+  <img src="img/Cat.jpg" style="width:50%;" />
   </p>
