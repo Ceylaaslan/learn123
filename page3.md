@@ -10,4 +10,14 @@
   </p>
 
 
-<iframe src="https://archive.org/embed/untitled_20171205_2012" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+<audio controls style="width: 150px; display: block;" >
+
+<source src="<iframe src="https://archive.org/embed/untitled_20171205_2012" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>.ogg" type="audio/ogg" >
+
+<source src="<iframe src="https://archive.org/embed/untitled_20171205_2012" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>.mp3" type="audio/mpeg">
+
+<br />Your browser does not support the audio element.<br />
+
+</audio>
